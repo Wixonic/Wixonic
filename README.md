@@ -1,8 +1,6 @@
 # Hi !
 I'm **Wixonic**, a web designer.
 
-# [WixCertif](https://wixonic.github.io/WixCertif/Certificate/?ref=ZhUuWIcnfZhhjuMp9amGVimSKG73-1621754992701)
-
 ## Tags
 
 [![Organisation](https://img.shields.io/badge/Organisation-Cryptic%20Technologies-blue)](https://github.com/Cryptic-Techs)
