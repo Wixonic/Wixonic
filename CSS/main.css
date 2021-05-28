@@ -1,0 +1,62 @@
+:root,
+:root *
+{
+	--background: rgb(240,240,245);
+	--background-2: rgb(225,225,230);
+	
+	--color: black:
+}
+
+@media (prefers-color-scheme: dark)
+{
+	:root,
+	:root *
+	{
+		--background: rgb(20,20,25);
+		--background-2: rgb(30,30,35);
+		
+		--color: white;
+	}
+}
+
+
+h1,
+header,
+svg
+{
+	margin: 0;
+	padding: 0;
+}
+
+
+body
+{
+	background: var(--background);
+	color: var(--color);
+	font-family: "Avenir Next", "Avenir", "Arial", Futura, sans-serif;
+	font-size: 1rem;
+	font-weight: 600;
+}
+
+h1
+{
+	font-size: 2rem;
+	font-weight: 700;
+	margin-bottom: 0.3rem;
+}
+
+header
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 5rem;
+}
+
+header > svg
+{
+	display: block;
+	width: 5rem;
+	height: 5rem;
+}
