@@ -1,3 +1,5 @@
+window.onerror = alert;
+
 const doc = Object.freeze({
 	get body()
 	{
@@ -13,7 +15,7 @@ const doc = Object.freeze({
 	tag: t => document.getElementsByTagName(t)
 });
 
-window.addEventListener("DOMContentOoaded",() => {
+window.addEventListener("DOMContentLoaded",() => {
 	firebase.initializeApp({
 		apiKey: "AIzaSyCJ0glRa8ymV6q7_7Fd2P9wmBeRI4jZiUA",
 		authDomain: "wixonic-profile.firebaseapp.com",
@@ -25,4 +27,9 @@ window.addEventListener("DOMContentOoaded",() => {
 	});
 	
 	window.database = firebase.database();
+	
+	if (typeof window.loaded == "function")
+	{
+		loaded();
+	}
 });
