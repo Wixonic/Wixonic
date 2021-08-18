@@ -5,9 +5,6 @@ I'm **Wixonic**, a web designer.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/73c9aea6-57b0-4629-9611-c63ace4714e4/deploy-status)](https://wixonic.netlify.app/)
 
-[![Organisation](https://img.shields.io/badge/Organisation-Cryptic%20Technologies-blue)](https://github.com/Cryptic-Techs)
-[![Org Stars](https://img.shields.io/github/stars/Cryptic-Techs?label=Organisation%20Stars)](https://github.com/Cryptic-Techs)
-
 [![User Stars](https://img.shields.io/github/stars/Wixonic?label=Stars)](https://github.com/Wixonic)
 [![Followers](https://img.shields.io/github/followers/Wixonic?label=Followers&color=blue)](https://github.com/Wixonic?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=Wixonic&label=Profile%20Views)](https://github.com/Wixonic)
