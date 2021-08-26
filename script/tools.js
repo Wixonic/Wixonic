@@ -19,3 +19,27 @@ const redirect = (url="") =>
 {
 	doc.head.innerHTML += `<meta http-equiv="refresh" content="0;${url}" />`;
 };
+
+const GET = (path="") =>
+{
+	return new Promise((resolve,reject) =>
+	{
+		const xhr = new XMLHttpRequest();
+
+		xhr.open("GET",`https://wixonic-profile-default-rtdb.europe-west1.firebasedatabase.app${path}/.json`,true);
+
+		xhr.responseType = "json";
+
+		xhr.onload = () =>
+		{
+			resolve(xhr.response);
+		};
+
+		xhr.onerror = () =>
+		{
+			reject();
+		};
+
+		xhr.send();
+	});
+};
