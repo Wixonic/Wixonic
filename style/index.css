@@ -1,3 +1,8 @@
+body
+{
+	padding-top: 0!important;
+}
+
 header
 {
 	background: none;
@@ -12,7 +17,7 @@ header
 	color: white;
 	border-radius: 0 0 5vw 5vw;
 	margin-bottom: 0.5rem;
-	padding-top: 1.5rem;
+	padding-top: 1rem;
 	padding-bottom: 0.7rem;
 	transition: border-radius 600ms;
 }
