@@ -3,19 +3,14 @@ body
 	padding-top: 0!important;
 }
 
-header
-{
-	background: none;
-}
-
 .summary-container
 {
 	display: block;
 	width: 100%;
 	background: rgb(0,25,115);
-	background: linear-gradient(45deg,rgb(40,40,45),rgb(0,25,115));
+	background: linear-gradient(270deg,rgb(40,40,45),rgb(0,25,115));
 	color: white;
-	border-radius: 0 0 5vw 5vw;
+	border-radius: 0 0 1rem 1rem;
 	margin-bottom: 0.5rem;
 	padding-top: 1rem;
 	padding-bottom: 0.7rem;
