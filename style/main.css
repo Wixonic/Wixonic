@@ -49,25 +49,73 @@ input,
 	resize: none;
 }
 
+header
+{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background: rgb(0,25,115);
+	background: linear-gradient(45deg,rgb(40,40,45),rgb(0,25,115));
+	color: white;
+	padding: 0.2rem 1rem;
+}
+
+header img
+{
+	display: inline-block;
+	height: 1rem;
+	transform-origin: 100% 0;
+	transition: transform 400ms;
+}
+
+header img:hover
+{
+	transform: scale(1.2);
+}
+
+header label
+{
+	font-size: 1.5rem;
+	transform-origin: 0 0;
+	transition: transform 400ms;
+}
+
+header label:hover
+{
+	transform: scale(1.2);
+}
+
+#nav-checkbox
+{
+	display: none;
+}
+
+h1,
+h2,
+h3
+{
+	font-weight: 700;
+	margin: 0.5rem 0.3rem;
+	margin-top: 0.8rem;
+}
+
 h1
 {
 	font-size: 2rem;
-	font-weight: 700;
-	margin: 0.6rem 0.3rem;
 }
 
 h2
 {
 	font-size: 1.5rem;
-	font-weight: 700;
-	margin: 0.6rem 0.3rem;
 }
 
 h3
 {
 	font-size: 1.3rem;
-	font-weight: 700;
-	margin: 0.6rem 0.3rem;
 }
 
 a
