@@ -20,6 +20,7 @@
 	scrollbar: none;
 	box-sizing: border-box;
 	outline: none;
+	text-align: center;
 }
 
 body
@@ -52,19 +53,32 @@ h1
 {
 	font-size: 2rem;
 	font-weight: 700;
-	margin-bottom: 0.6rem;
+	margin: 0 0.3rem 0.6rem 0.3rem;
 }
 
 h2
 {
 	font-size: 1.5rem;
 	font-weight: 700;
-	margin-bottom: 0.5rem;
+	margin: 0 0.3rem 0.6rem 0.3rem;
 }
 
 h3
 {
 	font-size: 1.3rem;
 	font-weight: 700;
-	margin-bottom: 0.4rem;
+	margin: 0 0.3rem 0.6rem 0.3rem;
+}
+
+a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
+a.link
+{
+	color: rgb(20,150,255);
+	text-decoration: underline;
+	font-weight: bold;
 }

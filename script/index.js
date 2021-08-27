@@ -13,7 +13,7 @@ onload = () =>
 				{
 					const code = codes[x];
 
-					doc.class("codes-container")[0].innerHTML += `<div class="code"><div class="title">${code.title}</div><div class="summary">${code.summary[pageLang]}</div><div class="language ${code.language || "null"}">${code.language || "?"}</div></div>`;
+					doc.class("codes-container")[0].innerHTML += `<a href="${code.link}" target="_blank" class="code"><div class="title">${code.title}</div><div class="summary">${code.summary[pageLang]}</div><div class="language ${code.language || "null"}">${code.language || "?"}</div></a>`;
 				}
 			} catch(e) {
 				console.log(e);
