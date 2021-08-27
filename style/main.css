@@ -23,6 +23,11 @@
 	text-align: center;
 }
 
+:root
+{
+	--bold: 600;
+}
+
 body
 {
 	background: #F9F9FF;
@@ -36,7 +41,7 @@ input,
 button
 {
 	color: black;
-	font-family: Arial;
+	font-family: "Avenir Next", Avenir, Arial;
 	font-size: 1rem;
 }
 
@@ -126,7 +131,7 @@ h1,
 h2,
 h3
 {
-	font-weight: 700;
+	font-weight: var(--bold);
 	margin: 0.5rem 0.3rem;
 	margin-top: 0.8rem;
 }

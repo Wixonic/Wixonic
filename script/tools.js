@@ -43,3 +43,29 @@ const GET = (path="") =>
 		xhr.send();
 	});
 };
+
+const sortByDate = (object) =>
+{
+	let dateArray = [];
+
+	for (let x in object)
+	{
+		const item = new Date(object[x].date).getTime() + "#" + x;
+
+		if (dateArray.length > 0)
+		{
+			dateArray.push(item);
+		} else {
+			dateArray = [item];
+		}
+	}
+
+	dateArray.sort();
+
+	for (let x in dateArray)
+	{
+		dateArray[x] = object[dateArray[x].split("#")[1]];
+	}
+
+	return dateArray;
+};
