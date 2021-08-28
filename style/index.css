@@ -13,25 +13,14 @@ body
 	margin-bottom: 0.5rem;
 	padding-top: 1rem;
 	padding-bottom: 0.7rem;
-	transition: border-radius 600ms;
 }
 
-.summary-container:hover
+.summary-container *
 {
-	border-radius: 0;
-}
-
-.summary-container img,
-.summary-container h1,
-.summary-container .summary
-{
-	margin: 0 auto;
 	transition: transform 400ms;
 }
 
-.summary-container img:hover,
-.summary-container h1:hover,
-.summary-container .summary:hover
+.summary-container *:hover
 {
 	transform: scale(1.1);
 }
@@ -41,10 +30,20 @@ body
 	display: block;
 	width: 50%;
 	max-width: 200px;
+	margin: 0 auto;
 }
 
-.summary-container h1,
-.summary-container .summary
+.summary-container .links
 {
-	display: inline-block;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2rem;
+	margin-top: 0.5rem;
+}
+
+.summary-container .links img
+{
+	height: 2.5rem;
+	width: 2.5rem;
 }
