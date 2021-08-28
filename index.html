@@ -11,56 +11,70 @@
 		<meta charset="utf-8" />
 		
 		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, viewport-fit=cover" />
+		
 		<meta name="robots" content="index,follow" />
 		
-		<meta name="theme-color" content="#ffffff" />
+		<meta name="theme-color" content="#F9F9FF" />
 		
 		<meta name="author" content="Wixonic" />
 		<meta name="description" content="Discover my universe." />
 		
 		<meta property="og:title" content="Wixonic" />
 		<meta property="og:description" content="Discover my universe." />
-		<meta property="og:title" content="Wixonic" />
-		<meta property="og:description" content="Wixonic's Website" />
 		<meta property="og:url" content="https://wixonic.netlify.app/" />
 		<meta property="og:locale" content="en_US" />
 		<meta property="og:image" content="https://wixonic.netlify.app/assets/logo.svg" />
 		<meta property="og:type" content="website" />
 		<meta property="og:site_name" content="Wixonic" />
 		
+		<link rel="stylesheet" href="style/main.css" />
+		<link rel="stylesheet" href="style/index.css" />
+		<link rel="stylesheet" href="style/codes-releases.css" />
+		
 		<script src="script/tools.js"></script>
+		<script src="script/index.js"></script>
+		
+		<script src="https://kit.fontawesome.com/d7730cd825.js" crossorigin="anonymous"></script>
 		
 	</head>
 	
 	<body>
-		
-		<h1>Redirecting...</h1>
 
-		<ul>
+		<header>
 			
-			<li><a href="en/">English</a></li>
-			<li><a href="fr/">Français</a></li>
+			<label for="nav-checkbox" class="fas fa-bars" tabindex="0"></label>
 
-		</ul>
-		
-<script>
-onload = () =>
-{
-	window.lang = window.navigator.language.toLowerCase();
-	
-	if (lang.indexOf("-") != -1)
-	{
-		lang = lang.split("-")[0];
-	}
-	
-	if (lang == "fr")
-	{
-		redirect("fr/");
-	} else {
-		redirect("en/");
-	}
-};
-</script>
+			<empty></empty>
+
+		</header>
+
+		<div class="summary-container">
+
+			<a aria-label="See Wixonic's Logos" href="logos/">
+
+				<img src="assets/logo-white.svg" alt="Wixonic's Logo" />
+
+			</a>
+
+			<h1>Wixonic</h1>
+
+			<br />
+
+			<div class="summary">Web Designer</div>
+
+		</div>
+
+		<h2>Releases</h2>
+
+		<div class="releases-container">Loading...</div>
+
+		<a aria-label="See the releases of frameworks and libraries" href="releases/" class="link">See more</a>
+
+		<h2>Codes</h2>
+
+		<div class="codes-container">Loading...</div>
+
+		<a aria-label="See codes" href="codes/" class="link">See more</a>
 		
 	</body>
 	
