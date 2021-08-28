@@ -16,7 +16,7 @@ onload = () =>
 				{
 					const release = releases[x];
 
-					doc.class("releases-container")[0].innerHTML += `<a href="${release.link}" target="_blank" class="release"><div class="title">${release.package} - V. ${release.version}</div><div class="summary">${release.summary[pageLang]}</div><div class="language ${release.language || "null"}">${release.language || "?"}</div></a>`;
+					doc.class("releases-container")[0].innerHTML += `<a href="${release.link}" target="_blank" class="release"><div class="title">${release.package} - V. ${release.version}</div><div class="summary">${release.summary}</div><div class="language ${release.language || "null"}">${release.language || "?"}</div></a>`;
 				}
 			} catch(e) {
 				console.log(e);
