@@ -1,7 +1,7 @@
 # Hi !
 I'm **Wixonic**, a web designer.
 
-## [My profile on SoloLearn](https://www.sololearn.com/Profile/16606191)
+### [My profile on SoloLearn](https://www.sololearn.com/Profile/16606191)
 
 ## Tags
 
