@@ -7,8 +7,7 @@ body
 {
 	display: block;
 	width: 100%;
-	background: rgb(0,25,115);
-	background: linear-gradient(270deg,rgb(40,40,45),rgb(0,25,115));
+	background: rgb(30,30,35);
 	color: white;
 	border-radius: 0 0 1rem 1rem;
 	margin-bottom: 0.5rem;
