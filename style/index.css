@@ -7,22 +7,14 @@ body
 {
 	display: block;
 	width: 100%;
-	background: rgb(30,30,35);
+	background-color: #141419;
+	background-image: url(../assets/background.jpg);
+	background-size: 100% 100%;
 	color: white;
 	border-radius: 0 0 1rem 1rem;
 	margin-bottom: 0.5rem;
 	padding-top: 1rem;
 	padding-bottom: 0.7rem;
-}
-
-.summary-container *
-{
-	transition: transform 400ms;
-}
-
-.summary-container *:hover
-{
-	transform: scale(1.1);
 }
 
 .summary-container img
@@ -31,19 +23,4 @@ body
 	width: 50%;
 	max-width: 200px;
 	margin: 0 auto;
-}
-
-.summary-container .links
-{
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	font-size: 2rem;
-	margin-top: 0.5rem;
-}
-
-.summary-container .links img
-{
-	height: 2.5rem;
-	width: 2.5rem;
 }
