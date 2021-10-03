@@ -6,4 +6,5 @@ I'm Wixonic, a **passionate web developer**.
 
 ## My Stats
 > Updated daily
+
 - Joined 1 year ago
