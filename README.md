@@ -1,6 +1,10 @@
-> **Last update**: 2021-10-03 19:52 CEST
+> **Last update**: 2021-10-03 19:55 CEST
 
-Hi ! 👋
+# Hi ! 👋
 
-I'm @Wixonic, a passionate web developer.
+I'm Wixonic, a **passionate web developer**.
+
+## My Stats
+> Updated daily
+- Member 
 
