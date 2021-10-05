@@ -1,10 +1,10 @@
-> **Last update**: 2021-10-05 07:00 CEST
+> **Last update**: 2021-10-05 20:50 UTC+2
 
 # Hi ! 👋
 
 I'm Wixonic, a **passionate web developer**.
 
-I've joined GitHub **1 year ago** ago.
+I've joined GitHub **il y a 1 an** ago.
 
 I've 5 public and 0 private repositories.
 
