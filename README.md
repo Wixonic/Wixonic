@@ -1,5 +1,7 @@
 # Hi !
-I'm **Wixonic**, a very perfectionist web designer who demands the best from browsers.
+I'm **Wixonic**, a very perfectionist web designer who asks the best from browsers.
+
+## Stats
 
 [![User Stars](https://img.shields.io/github/stars/Wixonic?label=Stars)](https://github.com/Wixonic)
 [![Profile Views](https://komarev.com/ghpvc/?username=Wixonic&label=Profile%20Views)](https://github.com/Wixonic)
