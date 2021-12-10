@@ -1,6 +1,10 @@
 # Hi !
 I'm **Wixonic**, a very perfectionist web designer who asks the best from browsers.
 
+## Pinned Repository
+
+[![JSON Formatter](https://github-readme-stats.vercel.app/api/pin/?username=Wixonic&repo=Klor&show_icons=true)](https://github.com/Wixonic/Klor)
+
 ## Stats
 
 [![User Stars](https://img.shields.io/github/stars/Wixonic?label=Stars)](https://github.com/Wixonic)
