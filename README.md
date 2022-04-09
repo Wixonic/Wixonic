@@ -18,4 +18,4 @@ I'm **Wixonic**, a very perfectionist web designer who asks the best from browse
 
 - [![Sololearn](https://img.shields.io/badge/-SoloLearn-red?logo=sololearn&logoWidth=20&logoColor=white&style=flat)](https://www.sololearn.com/profile/16606191/?ref=app)
 - [Website](https://wixonic.github.io)
-- [Contact me](mailto:wixonic@icloud.com)
+- [Contact me](mailto:public.wixonic@icloud.com)
