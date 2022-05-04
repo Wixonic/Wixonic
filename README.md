@@ -1,7 +1,7 @@
 # Hi !
 I'm **Wixonic**, a very perfectionist web designer who asks the best from browsers.
 
-![WixCertif](https://cdn.jsdelivr.net/gh/Wixonic/Certif@Certification/Certificates/20220504.095556.122.svg)
+[![WixCertif](https://cdn.jsdelivr.net/gh/Wixonic/Certif@Certification/Certificates/20220504.095556.122.svg)](https://wixonic.github.io/Certif/View/20220504.095556.122/)
 
 ## Pinned Repositories
 
