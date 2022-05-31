@@ -3,6 +3,7 @@ I'm **Wixonic**, a very perfectionist web designer who asks the best from browse
 
 ## Pinned Repositories
 
+[![WebCraft](https://github-readme-stats.vercel.app/api/pin/?username=Wixonic&repo=WebCraft&show_icons=true)](https://github.com/Wixonic/WebCraft)
 [![File Lister](https://github-readme-stats.vercel.app/api/pin/?username=Wixonic&repo=File-Lister&show_icons=true)](https://github.com/Wixonic/File-Lister)
 [![Logger](https://github-readme-stats.vercel.app/api/pin/?username=Wixonic&repo=Logger&show_icons=true)](https://github.com/Wixonic/Logger)
 
