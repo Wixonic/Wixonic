@@ -15,5 +15,5 @@ I'm **Wixonic**, a very perfectionist web designer who asks the best from browse
 ## Links
 
 - [Sololearn](https://www.sololearn.com/profile/16606191/?ref=app)
-- [Website](https://wixonic.github.io)
-- [Contact me](mailto:public.wixonic@icloud.com)
+- [Website](https://wixonic.fr)
+- [Contact me](mailto:contact@wixonic.fr)
