@@ -5,7 +5,6 @@ I'm **Wixonic**, a very perfectionist web designer who asks the best from browse
 
 [![WebCraft](https://github-readme-stats.vercel.app/api/pin/?username=Wix-Productions&repo=WebCraft&show_icons=true)](https://github.com/Wix-Productions/WebCraft)
 [![Musical-Motion](https://github-readme-stats.vercel.app/api/pin/?username=Wixonic&repo=Musical-Motion&show_icons=true)](https://github.com/Wixonic/Musical-Motion)
-[![Discord-bot](https://github-readme-stats.vercel.app/api/pin/?username=Wixonic&repo=Discord-bot&show_icons=true)](https://github.com/Wixonic/Discord-bot)
 [![Editor-Musical-Motion](https://github-readme-stats.vercel.app/api/pin/?username=Wixonic&repo=Editor-Musical-Motion&show_icons=true)](https://github.com/Wixonic/Editor-Musical-Motion)
 
 ### Archived
