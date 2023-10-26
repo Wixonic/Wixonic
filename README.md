@@ -8,8 +8,6 @@
 
 <p align="center"><a href="https://wakatime.com/@Wixonic"><img src="https://wakatime.com/share/@Wixonic/1654edc9-2885-4878-8487-0b5da766dd9e.svg" alt="Coding Activity (Week)" height="300" /></a></p>
 
-<br />
-
 <p align="center"><b>Languages Used (Week)</b></p>
 
 <p align="center"><a href="https://wakatime.com/@Wixonic"><img src="https://wakatime.com/share/@Wixonic/0432f55a-0698-4126-af1f-2dbcfc17ada3.svg" alt="Languages Used (Week)" height="300" /></a></p>
