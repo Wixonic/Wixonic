@@ -1,6 +1,7 @@
 <p align="center">
-	<a href="https://wixonic.fr"><img src="https://img.shields.io/badge/Website-000000" alt="Website" /></a>
-	<!-- More badges soon -->
+	
+	<h1><a href="https://wixonic.fr">Website</a></h1>
+ 
 </p>
 
 <p align="center">Coding activity since April 12 2023:<br /><a href="https://wakatime.com/@Wixonic"><img src="https://wakatime.com/badge/user/0df5f3f8-e8fd-48e9-9695-f2e5d8773af9.svg" alt="Coding Activity (Total)" /></a></p>
