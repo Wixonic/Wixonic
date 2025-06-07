@@ -1,11 +1,6 @@
 # Hi!
 
-I'm Wixonic, a web and game developer, but also a 3D artist. Call me Wix!
-
-- [Website](https://wixonic.fr)
-- [Discord](https://go.wixonic.fr/discord)
-- [Patreon](https://go.wixonic.fr/patreon)
-- [Contact](https://wixonic.fr/contact)
+I'm Wixonic, an artist, web designer, and developer.
 
 <p align="center"><img src="https://github.com/Wixonic/Website/raw/refs/heads/v3/websites/assets/image/github.png" width="500" /></p>
 
