@@ -2,13 +2,11 @@
 
 I'm Wix, an artist, web designer and developer.
 
-Most of my projects live on [WixiLand](https://go.wixonic.fr/discord), my Discord server, where I’m building a whole universe.
+### Join my [Discord Server](https://go.wixonic.fr/discord), or learn more on my [website](https://wixonic.fr)!
 
 Email me at [contact@wixonic.fr](mailto:contact@wixonic.fr) or open a ticket [here](https://go.wixonic.fr/help) if you're already on my Discord server.
 
-You can also visit my [website](https://wixonic.fr).
-
-<p align="center"><img src="https://github.com/Wixonic/Website/raw/refs/heads/v3/websites/assets/image/github.png" width="500" /></p>
+<p align="center"><img src="https://github.com/Wixonic/Wixonic/raw/refs/heads/Default/wallpaper.png" width="500" /></p>
 
 ---
 
