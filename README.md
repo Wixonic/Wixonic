@@ -14,8 +14,8 @@ Email me at [contact@wixonic.fr](mailto:contact@wixonic.fr) or open a ticket [he
 
 ---
 
-## Email adress
+## Email address
 
 Since I keep receiving more and more advertising through my account, I need to put this disclaimer here:
 
-> BY SENDING ADVERTISEMENTS VIA THIS ACCOUNT'S EMAIL ADRESS, YOU EXPOSE YOURSELF TO A MAXIMUM FINE OF 20 MILLION EUROS.
+> BY SENDING ADVERTISEMENTS VIA THIS ACCOUNT'S EMAIL ADDRESS, YOU EXPOSE YOURSELF TO A MAXIMUM FINE OF 20 MILLION EUROS.
