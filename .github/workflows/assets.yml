@@ -190,7 +190,7 @@ jobs:
 
   commit:
     runs-on: ubuntu-latest
-    needs: [stats, top-langs, pin-wixibot, pin-server, pin-website, pin-youtube-alt, pin-tipe, pin-atoll, pin-webhook-engine, wakatime]
+    needs: [stats, top-langs, pin-wixibot, pin-server, pin-website, pin-tipe, pin-atoll, pin-webhook-engine, wakatime]
 
     permissions:
       contents: write
