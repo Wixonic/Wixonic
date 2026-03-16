@@ -2,10 +2,24 @@
 
 I'm Wix, an artist, web designer and developer.
 
-- Coding activity since April 12 2023<br />
+## Currently maintaining these repos
+
+[![WixiBot](assets/repos/WixiBot.svg)](https://github.com/Wixonic/WixiBot)
+[![Server](assets/repos/Server.svg)](https://github.com/Wixonic/Server)
+
+[![Website](assets/repos/Website.svg)](https://github.com/Wixonic/Website)
+[![TIPE](assets/repos/TIPE.svg)](https://github.com/Wixonic/TIPE)
+
+[![Webhook Engine](assets/repos/Webhook-Engine.svg)](https://github.com/Wixonic/Webhook-Engine)
+
+# Stats
+
 [![Wakatime all-time coding activity badge](./assets/wakatime.svg)](https://wakatime.com/@Wixonic)
-- GitHub Stats<br />
+[![GitHub Language Stats](./assets/langs.svg)](https://github.com/Wixonic)
+
 [![GitHub Stats](./assets/stats.svg)](https://github.com/Wixonic)
+
+> [Wakatime](https://wakatime.com) recorded my coding activity since April 12, 2023
 
 ## My Skills
 [![HTML](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
