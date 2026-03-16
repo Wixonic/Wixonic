@@ -8,11 +8,8 @@ on:
 permissions: {}
 
 jobs:
-  build:
+  stats:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - uses: actions/checkout@v6
@@ -25,6 +22,18 @@ jobs:
           path: assets/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: stats
+          path: assets/stats.svg
+
+  top-langs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
@@ -32,7 +41,19 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=5&theme=transparent
           path: assets/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: top-langs
+          path: assets/langs.svg
+
+  pin-wixibot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
       - name: Generate pin card (WixiBot)
         uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
@@ -40,7 +61,19 @@ jobs:
           options: username=${{ github.repository_owner }}&repo=WixiBot&theme=transparent
           path: assets/repos/WixiBot.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pin-wixibot
+          path: assets/repos/WixiBot.svg
+
+  pin-server:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
       - name: Generate pin card (Server)
         uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
@@ -48,7 +81,19 @@ jobs:
           options: username=${{ github.repository_owner }}&repo=Server&theme=transparent
           path: assets/repos/Server.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pin-server
+          path: assets/repos/Server.svg
+
+  pin-website:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
       - name: Generate pin card (Website)
         uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
@@ -56,7 +101,19 @@ jobs:
           options: username=${{ github.repository_owner }}&repo=Website&theme=transparent
           path: assets/repos/Website.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pin-website
+          path: assets/repos/Website.svg
+
+  pin-youtube-alt:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
       - name: Generate pin card (YouTube Alt)
         uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
@@ -64,7 +121,19 @@ jobs:
           options: username=${{ github.repository_owner }}&repo=YouTube-Alt&theme=transparent
           path: assets/repos/YouTube-Alt.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pin-youtube-alt
+          path: assets/repos/YouTube-Alt.svg
+
+  pin-tipe:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
       - name: Generate pin card (TIPE)
         uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
@@ -72,7 +141,19 @@ jobs:
           options: username=${{ github.repository_owner }}&repo=TIPE&theme=transparent
           path: assets/repos/TIPE.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pin-tipe
+          path: assets/repos/TIPE.svg
+
+  pin-atoll:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
       - name: Generate pin card (Atoll)
         uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
@@ -80,7 +161,19 @@ jobs:
           options: username=Ebullioscopic&repo=Atoll&theme=transparent
           path: assets/repos/Atoll.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pin-atoll
+          path: assets/repos/Atoll.svg
+
+  pin-12th-client:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
       - name: Generate pin card (12-th Client)
         uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
@@ -88,19 +181,66 @@ jobs:
           options: username=${{ github.repository_owner }}&repo=12th-Client&theme=transparent
           path: assets/repos/12th-Client.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pin-12th-client
+          path: assets/repos/12th-Client.svg
+
+  wakatime:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
       - name: Generate WakaTime card
         uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}&layout=compact&theme=transparent
+          options: username=${{ github.repository_owner }}&layout=compact&theme=transparent
           path: assets/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: wakatime
+          path: assets/wakatime.svg
+
+  commit:
+    runs-on: ubuntu-latest
+    needs: [stats, top-langs, pin-wixibot, pin-server, pin-website, pin-youtube-alt, pin-tipe, pin-atoll, pin-12th-client, wakatime]
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+
+      - name: Move artifacts to correct locations
+        run: |
+          mkdir -p assets/repos
+          cp artifacts/stats/stats.svg assets/stats.svg
+          cp artifacts/top-langs/langs.svg assets/langs.svg
+          cp artifacts/pin-wixibot/WixiBot.svg assets/repos/WixiBot.svg
+          cp artifacts/pin-server/Server.svg assets/repos/Server.svg
+          cp artifacts/pin-website/Website.svg assets/repos/Website.svg
+          cp artifacts/pin-youtube-alt/YouTube-Alt.svg assets/repos/YouTube-Alt.svg
+          cp artifacts/pin-tipe/TIPE.svg assets/repos/TIPE.svg
+          cp artifacts/pin-atoll/Atoll.svg assets/repos/Atoll.svg
+          cp artifacts/pin-12th-client/12th-Client.svg assets/repos/12th-Client.svg
+          cp artifacts/wakatime/wakatime.svg assets/wakatime.svg
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add assets/
           git commit -m "Update README cards" || exit 0
           git push
