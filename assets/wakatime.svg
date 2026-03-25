@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="328.0110000000001"
+            width="330.15"
             height="8"
             fill="#f1e05a"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="328.0110000000001"
+            x="330.15"
             y="0"
-            width="36.1305"
+            width="36.3165"
             height="8"
             fill="#663399"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="364.14150000000006"
+            x="366.4665"
             y="0"
-            width="30.1785"
+            width="30.317999999999998"
             height="8"
             fill="#178600"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="394.32000000000005"
+            x="396.7845"
             y="0"
-            width="25.1565"
+            width="25.296000000000003"
             height="8"
             fill="#292929"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="419.47650000000004"
+            x="422.0805"
             y="0"
-            width="23.9475"
+            width="24.0405"
             height="8"
             fill="#3178c6"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="443.42400000000004"
+            x="446.121"
             y="0"
-            width="20.088"
+            width="20.180999999999997"
             height="8"
             fill="#555555"
           />
@@ -188,7 +188,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 757 hrs 31 mins
+        JavaScript - 757 hrs 52 mins
       </text>
     </g>
   
@@ -209,7 +209,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 58 hrs
+        JSON - 58 hrs 2 mins
       </text>
     </g>
   
