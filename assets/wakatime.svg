@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="323.919"
+            width="323.454"
             height="8"
             fill="#f1e05a"
           />
@@ -137,7 +137,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="323.919"
+            x="323.454"
             y="0"
             width="35.6655"
             height="8"
@@ -147,7 +147,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="359.5845"
+            x="359.1195"
             y="0"
             width="29.7135"
             height="8"
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="389.298"
+            x="388.833"
             y="0"
-            width="26.877000000000002"
+            width="27.249000000000002"
             height="8"
             fill="#555555"
           />
@@ -167,7 +167,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="416.175"
+            x="416.08200000000005"
             y="0"
             width="25.3425"
             height="8"
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="441.51750000000004"
+            x="441.4245000000001"
             y="0"
-            width="25.296000000000003"
+            width="25.203000000000003"
             height="8"
             fill="#3178c6"
           />
@@ -209,14 +209,14 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C - 62 hrs 54 mins
+        C - 63 hrs 57 mins
       </text>
     </g>
   
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 59 hrs 23 mins
+        JSON - 59 hrs 27 mins
       </text>
     </g>
   
