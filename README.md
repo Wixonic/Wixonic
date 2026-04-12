@@ -31,7 +31,6 @@ I'm Wix, an artist, web designer and developer.
 ## My Tools
 [![Blender](https://skillicons.dev/icons?i=blender)](https://en.wikipedia.org/wiki/Blender_(software))
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
-[![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://en.wikipedia.org/wiki/Obsidian_(software))
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://en.wikipedia.org/wiki/Firebase)
 [![Google Cloud Platform](https://skillicons.dev/icons?i=gcp)](https://en.wikipedia.org/wiki/Google_Cloud_Platform)
 [![Godot](https://skillicons.dev/icons?i=godot)](https://en.wikipedia.org/wiki/Godot_(game_engine))
