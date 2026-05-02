@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="317.6415"
+            width="317.4555"
             height="8"
             fill="#f1e05a"
           />
@@ -137,7 +137,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="317.6415"
+            x="317.4555"
             y="0"
             width="37.711499999999994"
             height="8"
@@ -147,7 +147,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="355.353"
+            x="355.167"
             y="0"
             width="28.783500000000004"
             height="8"
@@ -157,7 +157,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="384.1365"
+            x="383.9505"
             y="0"
             width="28.178999999999995"
             height="8"
@@ -167,7 +167,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="412.3155"
+            x="412.12949999999995"
             y="0"
             width="25.761"
             height="8"
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="438.0765"
+            x="437.8905"
             y="0"
-            width="25.435499999999998"
+            width="25.528499999999998"
             height="8"
             fill="#292929"
           />
@@ -195,7 +195,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS - 91 hrs 16 mins
+        CSS - 91 hrs 20 mins
       </text>
     </g>
   
@@ -223,7 +223,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 61 hrs 40 mins
+        JSON - 61 hrs 44 mins
       </text>
     </g>
   
