@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="314.526"
+            width="314.154"
             height="8"
             fill="#f1e05a"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="314.526"
+            x="314.154"
             y="0"
-            width="37.665"
+            width="37.6185"
             height="8"
             fill="#663399"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="352.19100000000003"
+            x="351.7725"
             y="0"
-            width="32.643"
+            width="32.82899999999999"
             height="8"
             fill="#555555"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="384.83400000000006"
+            x="384.6015"
             y="0"
-            width="28.458000000000002"
+            width="28.4115"
             height="8"
             fill="#178600"
           />
@@ -167,7 +167,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="413.2920000000001"
+            x="413.013"
             y="0"
             width="25.9005"
             height="8"
@@ -177,7 +177,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="439.1925000000001"
+            x="438.9135"
             y="0"
             width="25.482000000000003"
             height="8"
@@ -188,7 +188,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 769 hrs 40 mins
+        JavaScript - 769 hrs 45 mins
       </text>
     </g>
   
@@ -202,7 +202,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C - 79 hrs 54 mins
+        C - 80 hrs 23 mins
       </text>
     </g>
   
@@ -216,7 +216,7 @@
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 63 hrs 20 mins
+        JSON - 63 hrs 25 mins
       </text>
     </g>
   
