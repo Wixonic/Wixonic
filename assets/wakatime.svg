@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="314.154"
+            width="312.8055"
             height="8"
             fill="#f1e05a"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="314.154"
+            x="312.8055"
             y="0"
-            width="37.6185"
+            width="37.432500000000005"
             height="8"
             fill="#663399"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="351.7725"
+            x="350.238"
             y="0"
-            width="32.82899999999999"
+            width="34.967999999999996"
             height="8"
             fill="#555555"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="384.6015"
+            x="385.206"
             y="0"
-            width="28.4115"
+            width="28.3185"
             height="8"
             fill="#178600"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="413.013"
+            x="413.5245"
             y="0"
-            width="25.9005"
+            width="25.761"
             height="8"
             fill="#292929"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="438.9135"
+            x="439.2855"
             y="0"
-            width="25.482000000000003"
+            width="25.389"
             height="8"
             fill="#3178c6"
           />
@@ -202,7 +202,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C - 80 hrs 23 mins
+        C - 86 hrs 7 mins
       </text>
     </g>
   
