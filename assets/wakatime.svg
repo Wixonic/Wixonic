@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="310.3875"
+            width="309.597"
             height="8"
             fill="#f1e05a"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="310.3875"
+            x="309.597"
             y="0"
-            width="37.1535"
+            width="37.014"
             height="8"
             fill="#663399"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="347.541"
+            x="346.611"
             y="0"
-            width="36.27"
+            width="36.1305"
             height="8"
             fill="#555555"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="383.811"
+            x="382.7415"
             y="0"
-            width="27.9465"
+            width="27.9"
             height="8"
             fill="#178600"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="411.7575"
+            x="410.64149999999995"
             y="0"
-            width="27.016499999999997"
+            width="27.249000000000002"
             height="8"
             fill="#3178c6"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="438.774"
+            x="437.8905"
             y="0"
-            width="25.853999999999996"
+            width="25.761"
             height="8"
             fill="#292929"
           />
@@ -216,7 +216,7 @@
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 67 hrs 15 mins
+        TypeScript - 68 hrs 4 mins
       </text>
     </g>
   
