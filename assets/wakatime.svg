@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="309.8295"
+            width="309.132"
             height="8"
             fill="#f1e05a"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="309.8295"
+            x="309.132"
             y="0"
-            width="37.107"
+            width="36.9675"
             height="8"
             fill="#663399"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="346.9365"
+            x="346.09950000000003"
             y="0"
-            width="36.641999999999996"
+            width="36.5025"
             height="8"
             fill="#555555"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="383.5785"
+            x="382.60200000000003"
             y="0"
-            width="27.9"
+            width="27.760499999999997"
             height="8"
             fill="#178600"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="411.4785"
+            x="410.3625"
             y="0"
-            width="27.249000000000002"
+            width="27.2025"
             height="8"
             fill="#3178c6"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="438.7275"
+            x="437.565"
             y="0"
-            width="25.853999999999996"
+            width="25.761"
             height="8"
             fill="#292929"
           />
@@ -223,7 +223,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 64 hrs 33 mins
+        JSON - 64 hrs 34 mins
       </text>
     </g>
   
