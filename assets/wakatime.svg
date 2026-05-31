@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="309.132"
+            width="311.3175"
             height="8"
             fill="#f1e05a"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="309.132"
+            x="311.3175"
             y="0"
-            width="36.9675"
+            width="37.2465"
             height="8"
             fill="#663399"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="346.09950000000003"
+            x="348.56399999999996"
             y="0"
-            width="36.5025"
+            width="36.7815"
             height="8"
             fill="#555555"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="382.60200000000003"
+            x="385.34549999999996"
             y="0"
-            width="27.760499999999997"
+            width="27.993"
             height="8"
             fill="#178600"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="410.3625"
+            x="413.33849999999995"
             y="0"
-            width="27.2025"
+            width="27.3885"
             height="8"
             fill="#3178c6"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="437.565"
+            x="440.727"
             y="0"
-            width="25.761"
+            width="25.993499999999997"
             height="8"
             fill="#292929"
           />
@@ -202,7 +202,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C - 91 hrs 30 mins
+        C - 91 hrs 31 mins
       </text>
     </g>
   
