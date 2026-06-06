@@ -4,10 +4,11 @@ I'm Wix, an artist, web designer and developer.
 
 ## Currently maintaining these repos
 
-[![WixiBot](assets/repos/WixiBot.svg)](https://github.com/Wixonic/WixiBot)
-[![Server](assets/repos/Server.svg)](https://github.com/Wixonic/Server)<br />
-[![Website](assets/repos/Website.svg)](https://github.com/Wixonic/Website)
+[![wShader](assets/repos/wShader.svg)](https://github.com/Wixonic/wShader)
 [![TIPE](assets/repos/TIPE.svg)](https://github.com/Wixonic/TIPE)<br />
+[![wShader](assets/repos/WixiBot.svg)](https://github.com/Wixonic/WixiBot)
+[![Website](assets/repos/Website.svg)](https://github.com/Wixonic/Website)<br />
+[![Server](assets/repos/Server.svg)](https://github.com/Wixonic/Server)
 [![Webhook Engine](assets/repos/Webhook-Engine.svg)](https://github.com/Wixonic/Webhook-Engine)
 
 # Stats
