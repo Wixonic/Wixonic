@@ -213,7 +213,7 @@ jobs:
           cp artifacts/pin-website/Website.svg assets/repos/Website.svg
           cp artifacts/pin-tipe/TIPE.svg assets/repos/TIPE.svg
           cp artifacts/pin-webhook-engine/Webhook-Engine.svg assets/repos/Webhook-Engine.svg
-          cp artifacts/pin-atoll/Atoll.svg assets/repos/Atoll.svg
+          cp artifacts/pin-wshader/wShader.svg assets/repos/wShader.svg
           cp artifacts/wakatime/wakatime.svg assets/wakatime.svg
 
       - name: Commit cards
