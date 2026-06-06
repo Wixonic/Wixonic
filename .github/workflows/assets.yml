@@ -148,25 +148,25 @@ jobs:
           name: pin-webhook-engine
           path: assets/repos/Webhook-Engine.svg
 
-  pin-atoll:
+  pin-wshader:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate pin card (Atoll)
+      - name: Generate pin card (wShader)
         uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
           card: pin
-          options: username=Ebullioscopic&show_owner=true&repo=Atoll&description_lines_count=1&theme=transparent
-          path: assets/repos/Atoll.svg
+          options: username=${{ github.repository_owner }}&repo=wShader&description_lines_count=1&theme=transparent
+          path: assets/repos/wShader.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: pin-atoll
-          path: assets/repos/Atoll.svg
+          name: pin-wshader
+          path: assets/repos/wShader.svg
 
   wakatime:
     runs-on: ubuntu-latest
