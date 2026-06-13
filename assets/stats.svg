@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Wixonic's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 30, Total Commits  : 2172, Total PRs: 16, Total Issues: 37, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 30, Total Commits  : 2173, Total PRs: 16, Total Issues: 37, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 133.247255440415;
+        stroke-dashoffset: 133.24081483914307;
       }
     }
   
