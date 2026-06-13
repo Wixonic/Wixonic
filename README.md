@@ -27,6 +27,10 @@ I'm Wix, an artist, web designer and developer.
 [![Deno](https://skillicons.dev/icons?i=deno)](https://en.wikipedia.org/wiki/Deno_(software))
 [![Discord.js](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org)
 [![c](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![LaTeX](https://skillicons.dev/icons?i=latex)](https://en.wikipedia.org/wiki/LaTeX)
+[![Markdown](https://skillicons.dev/icons?i=markdown)](https://en.wikipedia.org/wiki/markdown)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://en.wikipedia.org/wiki/PostgreSQL)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://en.wikipedia.org/wiki/SQLite)
 
 ## My Tools
 [![Blender](https://skillicons.dev/icons?i=blender)](https://en.wikipedia.org/wiki/Blender_(software))
