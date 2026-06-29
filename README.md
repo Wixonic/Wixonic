@@ -4,9 +4,9 @@ I'm Wix, an artist, web designer and developer.
 
 ## Currently maintaining these repos
 
-[![Mercury](assets/repos/Mercury.svg)](https://github.com/Wixonic/Mercury)<br />
-[![TIPE](assets/repos/TIPE.svg)](https://github.com/Wixonic/TIPE)
-[![WixiBot](assets/repos/WixiBot.svg)](https://github.com/Wixonic/WixiBot)<br />
+[![Mercury](assets/repos/Mercury.svg)](https://github.com/Wixonic/Mercury)
+[![TIPE](assets/repos/TIPE.svg)](https://github.com/Wixonic/TIPE)<br />
+[![WixiBot](assets/repos/WixiBot.svg)](https://github.com/Wixonic/WixiBot)
 [![Website](assets/repos/Website.svg)](https://github.com/Wixonic/Website)
 
 # Stats
