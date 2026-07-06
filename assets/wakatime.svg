@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="295.926"
+            width="295.647"
             height="8"
             fill="#f1e05a"
           />
@@ -137,7 +137,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="295.926"
+            x="295.647"
             y="0"
             width="40.455"
             height="8"
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="336.381"
+            x="336.102"
             y="0"
-            width="39.2925"
+            width="39.1995"
             height="8"
             fill="#555555"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="375.6735"
+            x="375.3015"
             y="0"
-            width="36.27"
+            width="36.6885"
             height="8"
             fill="#3178c6"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="411.9435"
+            x="411.98999999999995"
             y="0"
-            width="26.5515"
+            width="26.505"
             height="8"
             fill="#178600"
           />
@@ -179,7 +179,7 @@
             data-testid="lang-progress"
             x="438.49499999999995"
             y="0"
-            width="26.179499999999997"
+            width="26.0865"
             height="8"
             fill="#292929"
           />
@@ -195,7 +195,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS - 106 hrs 3 mins
+        CSS - 106 hrs 10 mins
       </text>
     </g>
   
@@ -209,7 +209,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 95 hrs 5 mins
+        TypeScript - 96 hrs 19 mins
       </text>
     </g>
   
