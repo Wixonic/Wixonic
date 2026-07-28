@@ -114,7 +114,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">WixiLand's Discord Application</tspan>
+      <tspan dy="1.2em" x="25">WixiLand&#39;s Discord Application</tspan>
     </text>
 
     <g transform="translate(30, 45)">
