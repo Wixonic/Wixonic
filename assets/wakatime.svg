@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="287.18399999999997"
+            width="286.6725"
             height="8"
             fill="#f1e05a"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="287.18399999999997"
+            x="286.6725"
             y="0"
-            width="44.0355"
+            width="44.361"
             height="8"
             fill="#663399"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="331.2195"
+            x="331.0335"
             y="0"
-            width="42.407999999999994"
+            width="42.9195"
             height="8"
             fill="#3178c6"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="373.6275"
+            x="373.953"
             y="0"
-            width="37.8975"
+            width="37.804500000000004"
             height="8"
             fill="#555555"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="411.525"
+            x="411.7575"
             y="0"
-            width="26.319000000000003"
+            width="26.2725"
             height="8"
             fill="#292929"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="437.844"
+            x="438.03"
             y="0"
-            width="25.6215"
+            width="25.575"
             height="8"
             fill="#7355dd"
           />
@@ -188,21 +188,21 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 780 hrs 38 mins
+        JavaScript - 780 hrs 53 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS - 119 hrs 44 mins
+        CSS - 120 hrs 54 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 115 hrs 17 mins
+        TypeScript - 116 hrs 57 mins
       </text>
     </g>
   
