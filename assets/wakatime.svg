@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="285.789"
+            width="285.41700000000003"
             height="8"
             fill="#f1e05a"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="285.789"
+            x="285.41700000000003"
             y="0"
-            width="44.779500000000006"
+            width="44.686499999999995"
             height="8"
             fill="#663399"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="330.5685"
+            x="330.10350000000005"
             y="0"
-            width="43.059"
+            width="43.0125"
             height="8"
             fill="#3178c6"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="373.62749999999994"
+            x="373.11600000000004"
             y="0"
-            width="37.665"
+            width="38.409"
             height="8"
             fill="#555555"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="411.29249999999996"
+            x="411.52500000000003"
             y="0"
-            width="26.5515"
+            width="26.505"
             height="8"
             fill="#292929"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="437.84399999999994"
+            x="438.03000000000003"
             y="0"
-            width="25.528499999999998"
+            width="25.435499999999998"
             height="8"
             fill="#7355dd"
           />
@@ -209,7 +209,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C - 102 hrs 59 mins
+        C - 104 hrs 59 mins
       </text>
     </g>
   
