@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="285.41700000000003"
+            width="287.41650000000004"
             height="8"
             fill="#f1e05a"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="285.41700000000003"
+            x="287.41650000000004"
             y="0"
-            width="44.686499999999995"
+            width="45.058499999999995"
             height="8"
             fill="#663399"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="330.10350000000005"
+            x="332.475"
             y="0"
-            width="43.0125"
+            width="43.338"
             height="8"
             fill="#3178c6"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="373.11600000000004"
+            x="375.81300000000005"
             y="0"
-            width="38.409"
+            width="38.6415"
             height="8"
             fill="#555555"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="411.52500000000003"
+            x="414.45450000000005"
             y="0"
-            width="26.505"
+            width="26.7375"
             height="8"
             fill="#292929"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="438.03000000000003"
+            x="441.19200000000006"
             y="0"
-            width="25.435499999999998"
+            width="25.667999999999996"
             height="8"
             fill="#7355dd"
           />
@@ -209,7 +209,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C - 104 hrs 59 mins
+        C - 105 hrs 2 mins
       </text>
     </g>
   
