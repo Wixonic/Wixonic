@@ -225,7 +225,7 @@
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 73 hrs 37 mins
+        JSON - 73 hrs 38 mins
       </text>
     </g>
   
