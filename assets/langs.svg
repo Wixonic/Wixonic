@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="211.56"
+          width="211.49"
           height="8"
           fill="#F05138"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="211.56"
+          x="211.49"
           y="0"
-          width="21.83"
+          width="21.94"
           height="8"
           fill="#3178c6"
         />
@@ -156,7 +156,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="233.39"
+          x="233.43"
           y="0"
           width="18.509999999999998"
           height="8"
@@ -166,7 +166,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="241.89999999999998"
+          x="241.94"
           y="0"
           width="14.52"
           height="8"
@@ -176,9 +176,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.42"
+          x="246.46"
           y="0"
-          width="12.3"
+          width="12.26"
           height="8"
           fill="#3d8137"
         />
@@ -199,14 +199,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#F05138" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Swift 84.62%
+        Swift 84.60%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 8.73%
+        TypeScript 8.78%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -227,7 +227,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3d8137" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Nunjucks 0.92%
+        Nunjucks 0.90%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
