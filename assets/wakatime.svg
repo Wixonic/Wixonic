@@ -138,7 +138,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="281.60400000000004"
+            width="281.51099999999997"
             height="8"
             fill="#f1e05a"
           />
@@ -146,9 +146,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="281.60400000000004"
+            x="281.51099999999997"
             y="0"
-            width="45.4305"
+            width="45.52349999999999"
             height="8"
             fill="#663399"
           />
@@ -156,7 +156,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="327.03450000000004"
+            x="327.0345"
             y="0"
             width="44.593500000000006"
             height="8"
@@ -166,7 +166,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="371.62800000000004"
+            x="371.628"
             y="0"
             width="41.013000000000005"
             height="8"
@@ -176,7 +176,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="412.6410000000001"
+            x="412.64099999999996"
             y="0"
             width="26.3655"
             height="8"
@@ -186,7 +186,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="439.0065000000001"
+            x="439.00649999999996"
             y="0"
             width="24.924"
             height="8"
@@ -197,14 +197,14 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 786 hrs 38 mins
+        JavaScript - 786 hrs 39 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS - 126 hrs 54 mins
+        CSS - 127 hrs 13 mins
       </text>
     </g>
   
