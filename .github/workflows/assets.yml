@@ -108,25 +108,25 @@ jobs:
           name: pin-tipe
           path: assets/repos/TIPE.svg
   
-  pin-mercury:
+  pin-whub:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate pin card (Mercury)
+      - name: Generate pin card (wHub)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=Mercury&description_lines_count=1&theme=transparent
-          path: assets/repos/Mercury.svg
+          options: username=${{ github.repository_owner }}&repo=wHub&description_lines_count=1&theme=transparent
+          path: assets/repos/wHub.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: pin-mercury
-          path: assets/repos/Mercury.svg
+          name: pin-whub
+          path: assets/repos/wHub.svg
 
   wakatime:
     runs-on: ubuntu-latest
@@ -150,7 +150,7 @@ jobs:
 
   commit:
     runs-on: ubuntu-latest
-    needs: [stats, top-langs, pin-wixibot, pin-website, pin-tipe, pin-mercury, wakatime]
+    needs: [stats, top-langs, pin-wixibot, pin-website, pin-tipe, pin-whub, wakatime]
 
     permissions:
       contents: write
@@ -171,7 +171,7 @@ jobs:
           cp artifacts/pin-wixibot/WixiBot.svg assets/repos/WixiBot.svg
           cp artifacts/pin-website/Website.svg assets/repos/Website.svg
           cp artifacts/pin-tipe/TIPE.svg assets/repos/TIPE.svg
-          cp artifacts/pin-mercury/Mercury.svg assets/repos/Mercury.svg
+          cp artifacts/pin-whub/wHub.svg assets/repos/wHub.svg
           cp artifacts/wakatime/wakatime.svg assets/wakatime.svg
 
       - name: Commit cards
