@@ -4,9 +4,9 @@ I'm Wix, an artist, web designer and developer.
 
 ## Currently maintaining these repos
 
-[![wHub](assets/repos/wHub.svg)](https://github.com/Wixonic/wHub)
+[![wHub](assets/repos/FLow.svg)](https://github.com/Wixonic/FLow)
 [![TIPE](assets/repos/TIPE.svg)](https://github.com/Wixonic/TIPE)<br />
-[![WixiBot](assets/repos/WixiBot.svg)](https://github.com/Wixonic/WixiBot)
+[![WixiBot](assets/repos/Server.svg)](https://github.com/Wixonic/Server)
 [![Website](assets/repos/Website.svg)](https://github.com/Wixonic/Website)
 
 # Stats
@@ -39,4 +39,4 @@ I'm Wix, an artist, web designer and developer.
 [![Godot](https://skillicons.dev/icons?i=godot)](https://en.wikipedia.org/wiki/Godot_(game_engine))
 [![Apple](https://skillicons.dev/icons?i=apple)](https://en.wikipedia.org/wiki/Apple_Inc.)
 
-### Join my [Discord Server](https://go.wixonic.fr/discord), or learn more on my [website](https://wixonic.fr)!
+### Learn more on my [website](https://wixonic.fr)!
