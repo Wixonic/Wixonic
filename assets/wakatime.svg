@@ -138,7 +138,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="275.0475"
+            width="274.722"
             height="8"
             fill="#f1e05a"
           />
@@ -146,9 +146,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="275.0475"
+            x="274.722"
             y="0"
-            width="48.26700000000001"
+            width="48.825"
             height="8"
             fill="#3178c6"
           />
@@ -156,9 +156,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="323.3145"
+            x="323.54699999999997"
             y="0"
-            width="45.89549999999999"
+            width="45.849"
             height="8"
             fill="#663399"
           />
@@ -166,7 +166,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="369.21"
+            x="369.39599999999996"
             y="0"
             width="44.593500000000006"
             height="8"
@@ -176,7 +176,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="413.8035"
+            x="413.98949999999996"
             y="0"
             width="26.179499999999997"
             height="8"
@@ -186,7 +186,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="439.983"
+            x="440.169"
             y="0"
             width="23.9475"
             height="8"
@@ -204,7 +204,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 140 hrs 24 mins
+        TypeScript - 142 hrs 14 mins
       </text>
     </g>
   
@@ -225,7 +225,7 @@
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 76 hrs 17 mins
+        JSON - 76 hrs 18 mins
       </text>
     </g>
   
